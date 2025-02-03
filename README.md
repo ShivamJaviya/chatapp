@@ -33,7 +33,8 @@ Welcome to **Connecto**, a feature-rich real-time chat application built using t
 ---
 ## **Must Watch** 
 
-📽️ Must Watch Video – Check out this video where I explore all features of Connecto in detail! 🎬 Watch Now
+📽️ Must Watch Video – Check out this video where I explore all features of Connecto in detail! 
+🎬 [Watch Here](https://drive.google.com/file/d/1A1uthmShdK7xpfpU9oGkHbmfmt2tAWkK/view?usp=sharing)  
 ---
 
 ## 🔐 **User Stories**  
